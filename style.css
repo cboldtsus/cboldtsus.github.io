@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  color: #654321
+}
+h2 {
+  text-align: center;
+  margin-left: 865px;
+  margin-top: 20px;
+  width: 170px;
+  height: 170px;
+  border-radius: 100%;
+  overflow: hidden;
+  background-image:url("https://avatars.githubusercontent.com/u/90394688?v=4");
+}
+ {
+  font-size: 15px;
+  color: #654321
+
+
+}
+p {
+  text-align: center;
+  color: #654321
+}
+
+p:  {
+  color: ;
+}
+
+/* #tabs {
+  display: flex;
+} */
+
+#tabs li {
+  display: inline;
+  margin: 10px;
+  background-color: #999999;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#tabs .ui-tabs-active {
+background-color: #ffffff;
+}
+
+#tabs a {
+  color: #000000;
+}
